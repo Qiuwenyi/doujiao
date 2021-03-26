@@ -1,0 +1,1 @@
+[{"IdNumber":"200011222","Identity":"Student","password":"xiaohei","role":"NORMAL","username":"xiaohei"},{"IdNumber":"211100222","Identity":"Teacher","password":"123456","role":"ADMIN","username":"admin"}]
